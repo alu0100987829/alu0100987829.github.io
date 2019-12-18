@@ -1,0 +1,16 @@
+Wed, 18 Dec 2019 00:16:37 +0000
+./lib/alimento/list.rb	Wed, 18 Dec 2019 00:08:09 +0000
+./lib/alimento/alimento.rb	Wed, 18 Dec 2019 00:04:40 +0000
+./lib/alimento/version.rb	Wed, 18 Dec 2019 00:10:08 +0000
+./lib/alimento/plato.rb	Wed, 18 Dec 2019 00:16:35 +0000
+./lib/alimento.rb	Wed, 18 Dec 2019 00:08:54 +0000
+./alimento.gemspec	Thu, 21 Nov 2019 12:30:29 +0000
+./Gemfile	Fri, 15 Nov 2019 08:13:57 +0000
+./Guardfile	Thu, 21 Nov 2019 12:30:29 +0000
+./README.md	Fri, 15 Nov 2019 08:03:19 +0000
+./Gemfile.lock	Thu, 21 Nov 2019 12:30:29 +0000
+./bin/setup	Fri, 15 Nov 2019 08:13:57 +0000
+./bin/console	Fri, 15 Nov 2019 08:13:57 +0000
+./Rakefile	Fri, 15 Nov 2019 08:13:57 +0000
+./spec/spec_helper.rb	Tue, 19 Nov 2019 17:39:06 +0000
+./spec/alimento_spec.rb	Tue, 17 Dec 2019 23:38:40 +0000
